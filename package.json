@@ -1,0 +1,19 @@
+{
+  "name": "string-distance",
+  "version": "1.0.3",
+  "description": "Different string distance implementations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tehp/string-distance.git"
+  },
+  "author": "Mackenzie Craig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tehp/string-distance/issues"
+  },
+  "homepage": "https://github.com/tehp/string-distance#readme"
+}
